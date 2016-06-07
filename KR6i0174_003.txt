@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:52.726497
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:48
 #+TITLE: 佛說巨力長者所問大乘經
 #+PROPERTY: CBETA_ID T14n0543
 #+PROPERTY: ID KR6i0174
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 543
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0174_T_000-0829c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0174_T_003-0834c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說巨力長者所問大乘經》卷下¶
+《佛說巨力長者所問大乘經》卷下¶
 ¶
 宋西天同譯經寶法大師賜紫¶
 沙門智吉祥等奉　詔譯¶
@@ -349,9 +348,9 @@
 　稱彼機宜，¶
 　方便演說，
 　各令悟入，
-　解脫法門。」
+　解脫法門。」」
 #+END_VERSE
-」¶
+¶
 
 時，巨力長者與五百長者，聞是法已，心大¶
 歡喜踊躍無量，於所聞法得深法忍、得最大¶
@@ -417,9 +416,9 @@
 　當願一切眾，
 　盡悟此法門，¶
 　不著世間樂，
-　速成菩提道。」
+　速成菩提道。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，巨力長者等說此偈已，各各虔誠投佛¶
 出家，佛乃聽許。
